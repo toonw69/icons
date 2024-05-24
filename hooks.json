@@ -1,17 +1,17 @@
 {
-  "invokeGarbage" : "453342596",
-  "walkClass" : "jp",
-  "viewport" : "bs",
-  "setX" : "bl",
-  "setY" : "bh",
-  "menuOptions" : "nh",
-  "menuTargets" : "nd",
-  "menuOptionsCount" : "nk",
-  "menuOptionsCountMultiplier" : "1393357457",
-  "menuParam1FieldName" : "ni",
-  "menuTypesFieldName" : "ns",
-  "menuIdentifiers" : "nb",
-  "menuItemIds" : "nv",
-  "menuParam0" : "nl"
+  "invokeGarbage" : "3",
+  "walkClass" : "jy",
+  "viewport" : "bu",
+  "setX" : "bg",
+  "setY" : "bu",
+  "menuOptions" : "of",
+  "menuTargets" : "oo",
+  "menuOptionsCount" : "nb",
+  "menuOptionsCountMultiplier" : "1214762271",
+  "menuParam1FieldName" : "nd",
+  "menuTypesFieldName" : "na",
+  "menuIdentifiers" : "nx",
+  "menuItemIds" : "ni",
+  "menuParam0" : "nf"
 
 }
